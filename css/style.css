@@ -1,0 +1,44 @@
+hr {
+    border: 2px solid #C5CAE9;
+}
+h1 {
+       font-family: 'Lobster Two', cursive;
+       opacity: 0.7;
+       font-size: 500%;
+       color:white;
+}
+.Subheading {
+       font-family: 'Lobster Two', cursive;
+       opacity: 0.7;
+       color:white;
+}
+p {
+    font-size: 30px;
+}
+.subs{
+    font-size: 200%;
+    font-style: italic;
+    color:white;
+}
+.links{
+    color:white;
+    opacity: 2;
+}
+body{
+    background-image:url("http://wallpapercave.com/wp/vFRb57E.jpg");
+    background-repeat:repeat-y;
+    background-position:top center;
+    background-attachment:fixed
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
